@@ -54,7 +54,7 @@ The following charts were created to analyze the data:
         Shows billing amount variation and identifies outliers.
  **6. Pie Chart –  Payment Method Distribution**
  
-   Displays the percentage of different payment methods used by patients.
+        Displays the percentage of different payment methods used by patients.
 
 **📈 Key Insights**
 - Identified the most common age group of patients.
